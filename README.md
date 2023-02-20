@@ -4,7 +4,7 @@ Optimizing images is essential for enhanced page loading speed and user experien
 
 ![Image-Optimizer-320x320-1-300x300](https://user-images.githubusercontent.com/84722152/220105377-cdbee37d-a44d-4734-a6ee-f9f528afcf36.png)
 
-An eCommerce is always loaded with tons of images, which means more image size weight on the website, and more weight means slow page load speed, which affects the website’s user experience. To tackle this situation, the website images need to be optimized. Magento 2 Image Optimizer will optimize the website images and display low-sized images without deteriorating their quality.
+An eCommerce is always loaded with tons of images, which means more image size weight on the website, and more weight means slow page load speed, which affects the website’s user experience. To tackle this situation, the website images need to be optimized. [Magento 2 Image Optimizer](https://magecomp.com/magento-2-image-optimizer.html) will optimize the website images and display low-sized images without deteriorating their quality.
 
 ## Why choose Magento 2 Image Optimizer for your website?
 
